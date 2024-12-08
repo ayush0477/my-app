@@ -15,10 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reations
         </a>
       </header>
-      <p>test</p>
+      <p> test</p>
     </div>
     );
    
