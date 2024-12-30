@@ -19,7 +19,7 @@ function App() {
           Learn Reations
         </a>
       </header>
-      <p> test</p>
+      <p>test</p>
     </div>
     );
    
